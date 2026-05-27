@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+env/
+path/
+
+# API keys / secrets
+.env
+*.env
+
+# Index cache (rebuilt automatically on first run)
+data/processed/index_cache.npz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS
+.DS_Store

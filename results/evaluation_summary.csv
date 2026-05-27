@@ -1,0 +1,16 @@
+question_id,question_type,question,baseline_correctness,baseline_grounding,baseline_retrieval,baseline_usefulness,baseline_style,baseline_mean,rag_correctness,rag_grounding,rag_retrieval,rag_usefulness,rag_style,rag_mean,delta
+Q1,contextual_qa,Why does Macbeth kill Duncan?,3,2,3,3,N/A,2.75,5,5,5,5,N/A,5.00,+2.25
+Q2,concept_explanation,Who is Hamlet?,4,2,3,4,N/A,3.25,5,4,4,5,N/A,4.50,+1.25
+Q3,concept_explanation,What is the conflict between the Montagues and the Capu,3,2,2,3,N/A,2.50,5,4,4,5,N/A,4.50,+2.00
+Q4,contextual_qa,Why does Hamlet delay taking revenge?,3,2,3,3,N/A,2.75,5,5,5,5,N/A,5.00,+2.25
+Q5,stylised_generation,Generate a short Shakespearean-style response from Juli,3,1,2,3,3,2.40,4,3,3,4,4,3.60,+1.20
+G1,concept_explanation,What role does the ghost of King Hamlet play in the sto,3,2,2,3,N/A,2.50,5,5,5,5,N/A,5.00,+2.50
+G2,contextual_qa,How does Lady Macbeth manipulate Macbeth into committin,3,2,3,3,N/A,2.75,5,5,5,5,N/A,5.00,+2.25
+G3,contextual_qa,What is the significance of the witches prophecy in Mac,3,2,3,3,N/A,2.75,5,4,4,5,N/A,4.50,+1.75
+G4,contextual_qa,"How do Romeo and Juliet meet, and why is the meeting si",3,2,2,3,N/A,2.50,5,4,4,5,N/A,4.50,+2.00
+G5,concept_explanation,What happens to Ophelia in Hamlet and why?,3,1,2,3,N/A,2.25,5,4,4,5,N/A,4.50,+2.25
+G6,stylised_generation,Write a short Shakespearean-style speech from Macbeth a,3,1,2,3,2,2.20,4,3,3,4,4,3.60,+1.40
+G7,concept_explanation,Why is the play Hamlet considered a tragedy?,3,1,2,3,N/A,2.25,5,4,4,5,N/A,4.50,+2.25
+G8,contextual_qa,What causes the death of Romeo and Juliet?,4,2,3,4,N/A,3.25,5,4,4,5,N/A,4.50,+1.25
+G9,contextual_qa,How is the theme of ambition explored in Macbeth?,3,2,3,3,N/A,2.75,5,5,5,5,N/A,5.00,+2.25
+G10,concept_explanation,What is the 'To be or not to be' soliloquy about?,4,2,3,4,N/A,3.25,5,5,5,5,N/A,5.00,+1.75
