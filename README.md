@@ -1,5 +1,5 @@
 # Shakespeare-Aware Question-Answering System
-### CSCI433/933 — Assignment 2 — Group 7 — University of Wollongong
+### CSCI433/933 Assignment 2 — University of Wollongong
 
 ---
 
